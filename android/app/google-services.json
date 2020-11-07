@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "302326890395",
+    "firebase_url": "https://mirul-learning-dev.firebaseio.com",
+    "project_id": "mirul-learning-dev",
+    "storage_bucket": "mirul-learning-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302326890395:android:9c7b623d0deaf28e2e2b3e",
+        "android_client_info": {
+          "package_name": "xyz.mirul.testdynamiclinkissue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302326890395-o9qe0i5uahpmgstv2nt2qd64bvkk0u32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xyz.mirul.testdynamiclinkissue",
+            "certificate_hash": "dcd2330fef3a51779a3a8d91bc80caa77b16ff97"
+          }
+        },
+        {
+          "client_id": "302326890395-8gdt15lgukj0ud89pcqp4o0530aa21l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoX9ZiJa0U8xkdG2IKz9llulqzMJTBD1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302326890395-8gdt15lgukj0ud89pcqp4o0530aa21l9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302326890395-li6fa0k2pi6dbjeqqma8dens2onel75h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "xyz.mirul.timetrackerfluttercourse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
